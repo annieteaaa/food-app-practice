@@ -1,0 +1,9 @@
+Using the React Navigation package: npm install react-navigation
+
+StackNavigator: works in a button way to bring to different screens. Header will also
+be managed by the StackNavigator (usually has a Title and a back arrow)
+
+BottomTabNavigator: Tabs at the bottom for navigating to different screens
+
+DrawerNavigator: button to pop out menu for different tabs. Usually represented by
+three horizontal lines
